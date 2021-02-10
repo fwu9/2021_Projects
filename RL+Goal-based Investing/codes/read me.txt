@@ -1,0 +1,8 @@
+1. just open the run_this
+2. keep other two .py  in the same document with run_this
+3. the data could be derived from the function US_stock_info()
+2. Recommended for using in colab
+3. the first two lines are used for download the necessary package in Colab.
+4. Please notice that the tensorflow should be 1.0.0
+5. After each simulation ends and the results are obtained,
+    the runtime needs to be restarted.
